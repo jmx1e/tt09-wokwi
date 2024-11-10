@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Serves as a 2-bit adder with IN1-4 as inputs and OUT1-3 as outputs. IN0 is connected to OUT0 via an inverter, and this is not part of the 2-bit adder.
 
 ## How to test
 
-Explain how to use your project
+Toggle IN1-4 between HIGH and LOW and observe the OUT1-3, which should follow a 2-bit adder.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED display
